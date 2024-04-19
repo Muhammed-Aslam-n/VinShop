@@ -1,4 +1,4 @@
-# vInShop
+# VinShop
 
 A Brand new flutter app for purchasing the best products.
 
@@ -11,6 +11,9 @@ Users needs to login with their valid credentials like Email and Password.
 
 You can directly take the application by running the command flutter build apk android-arm,android-arm64,android-x64 -- split-per-abi
 .apk file will be generated and can be easily installed.
+
+
+**If you're getting error while running in iOS, Add the GoogleService-info.plist again from XCode. Since I don not possess one, I couldn't test it properly.**
 
 ## Getting Started
 
